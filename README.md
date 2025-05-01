@@ -26,4 +26,27 @@ _A sample preview of the Power BI dashboard is shown below._
 ![Dashboard Screenshot](screenshots/dashboard_overview.png)
 
 ## 📂 Repository Structure
+employee-attrition-analysis/ │ ├── README.md ├── Employee_Attrition_Dashboard.pbix ├── Dataset/ │ └── WA_Fn-UseC_-HR-Employee-Attrition.csv ├── Screenshots/ │ ├── dashboard_overview.png │ ├── attrition_by_department.png │ └── attrition_kpis.png └── Report/ └── HR_Attrition_Report.pdf
 
+
+
+## 🧠 Key Insights
+- Sales and R&D departments showed the highest attrition rates.
+- Overtime and low job satisfaction strongly correlate with attrition.
+- Younger employees and those with fewer years at the company are more likely to leave.
+- Employees with low income or work-life balance are at higher risk of leaving.
+
+## 📎 How to Use
+1. Download `Employee_Attrition_Dashboard.pbix`.
+2. Open with Power BI Desktop.
+3. Interact with slicers and filters to explore attrition patterns.
+4. Use insights to support HR decisions.
+
+## 👨‍💻 Author
+**Prathamesh Aiwale**  
+[LinkedIn](https://www.linkedin.com/in/prathameshaiwale)  
+[Email](mailto:prathameshaiwale@gmail.com)
+
+---
+
+_This project is a part of my Data Analyst portfolio. Feedback, forks, and collaborations are welcome!_
